@@ -13,7 +13,8 @@ This project was created using React + Vite and Tailwind CSS. It creates a singl
 ### Key Features
 The password generator uses a simple list of card data to generate a list of cards styled cards.sword generated is deemed weak. The App uses Tailwind CSS classes to create attractive and responsive styling, and uses lorum picsum to add interesting visuals to project. 
 
-image
+![image](https://github.com/user-attachments/assets/a3488fbc-417e-4fbb-abd9-dccef1748dfe)
+
 
 ### Components and utilities breakdown
 `app` - handles the generation of the structure of the page, and feeds card data to the `card` component which then returns a styled card.
